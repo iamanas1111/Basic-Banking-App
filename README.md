@@ -14,19 +14,19 @@ src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Home%20Layout
 
 ### Homescreen 
 <img 
-src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/ Home%20Layout.jpg " width ="250px" height ="450px"> 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/ Home%20Layout.jpg" width ="250px" height ="450px"> 
 
 ------------------------------------------
 
 ### Users List 
 <img 
-src=" https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/User%20List.jpg " width ="250px" height ="450px">
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/User%20List.jpg">
 
 ------------------------------------------
 
 ### Amount Exceeds Limit
 <img 
-src=" https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Amount%20exceeds%20limit.jpg " width ="250px" height ="450px">
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Amount%20exceeds%20limit.jpg">
 
 ------------------------------------------
 
