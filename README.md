@@ -7,50 +7,45 @@
 ## Screenshots!
 
 ### Design Layout 
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Layouts.PNG">
+<img 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Home%20Layout.jpg">
 
 ----------------------------------------
 
 ### Homescreen 
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Home%20screen.jpg" width ="250px" height ="450px"> 
+<img 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/ Home%20Layout.jpg " width ="250px" height ="450px"> 
 
 ------------------------------------------
 
 ### Users List 
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Select%20User%20Account.jpg" width ="250px" height ="450px">
+<img 
+src=" https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/User%20List.jpg " width ="250px" height ="450px">
 
 ------------------------------------------
 
-### Users Data
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/User%20Details.jpg" width ="250px" height ="450px">
+### Amount Exceeds Limit
+<img 
+src=" https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Amount%20exceeds%20limit.jpg " width ="250px" height ="450px">
 
 ------------------------------------------
 
-### Transfer Amount
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Amount%20exceeded%20limit.jpg" width ="250px" height ="450px"> <img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Enter%20Amount.jpg" width ="250px" height ="450px">   
+### User Details
+<img 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/User%20Details.jpg" width ="250px" height ="450px"> 
+<img 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Enter%20amount.jpg" width ="250px" height ="450px">   
 
 ------------------------------------------
 
-### Select User To Transfer Money
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Select%20a%20user%20to%20transfer%20money%20to.jpg" width ="250px" height ="450px">
+### Transaction History
+<img 
+src="https://github.com/iamanas1111/Basic-Banking-App/blob/main/ss/Transaction%20History.jpg" width ="250px" height ="450px">
 
 ------------------------------------------
 
-### Transaction Successful
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Transaction%20Successfull.jpeg" width ="250px" height ="450px">
-
-------------------------------------------
-
-### Updated Amount In Users List
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Updated%20Amount.jpg" width ="250px" height ="450px">
-
-------------------------------------------
-
-### Transaction History Showing Successfull & Cancelled Transactions
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Transaction%20History.jpeg" width ="250px" height ="450px">
-
-------------------------------------------
 
 
 ### Project Explanation 
-Link https://www.youtube.com/watch?v=uBfr7uRkRb0
+Link 
+
